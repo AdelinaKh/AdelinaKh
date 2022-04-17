@@ -9,7 +9,7 @@
 👋 Hi, my name is Adelina. Nice to meet you 🙃
 ====================
 
- 🌱 I’m currently studing for Web Development at [Y.Praktikum](https://practicum.yandex.ru/)
+ 🌱 I’m currently studying for Web Development at [Y.Praktikum](https://practicum.yandex.ru/)
 
 
 
